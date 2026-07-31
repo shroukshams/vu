@@ -1,6 +1,6 @@
 <?php
 
-namespace App\services\Team;
+namespace App\Services\Team;
 use App\Models\User;
 use Illuminate\Support\Facades\Password;
 use Exception;
