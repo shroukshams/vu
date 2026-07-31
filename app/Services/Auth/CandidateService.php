@@ -1,6 +1,6 @@
 <?php
 
-namespace App\services\Auth;
+namespace App\Services\Auth;
 
 use App\Http\Resources\AuthCandidate\AuthResource;
 use App\Models\Candidate;
